@@ -6,3 +6,5 @@ El componente FollowMouse es un componente de React que permite que un elemento 
 - Actualiza la posición del elemento en la pantalla basándose en la posición actual del cursor del ratón.
 - Alterna la clase CSS no-cursor en el elemento body para ocultar el cursor cuando el componente está habilitado.
 - Tiene un botón para activar o desactivar el estado del componente.
+
+Eslint con Standard configurado
